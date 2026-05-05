@@ -8,3 +8,5 @@ var olegBranch = 0;
 var mainBranch = 0;
 
 var merge = 1;
+
+var forked = 'yes';
